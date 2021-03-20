@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## This page
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This page is the "About" page. Here I explain the purpose of my site. Please continue reading.
 
-There are currently two themes built on Poole:
+## This site
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+The purpose of this site is to immortalize (in github's Arctic vault no less) all the rants and opinions I've accumulated over my ~~long and prosperous~~ short and otherwise uneventful existence. Sometimes I will write many things. Sometimes I will not write anything. There's no main subject and no single language. I hate taking decisions and I hate classifications.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Me
 
-## Setup
+Many years ago during an informal professional gathering a friend described me and my brother as "engineers who like to ride bicycles". Although 100% at the time, I was slightly pissed off to listen what was 20+ years of my existence summarized on such a simple phrase. Also, I was intrigued. If this friend thinks this of me: what may other people, who know me less still, think? With time, I've learned to appreciate the exactness of the definition. Also with time, I've accumulated some other badges / tags: PhD in Operations Research, [double](https://baobabsoluciones.es/)-[entrepreneur](https://hackpackinglife.com/) and ~~President of the United States of America~~.
 
-Some fun facts about the setup of this project include:
+Somewhere else I gave this description which I think it's still valid (and may be for a long time): Engineer, programmer and scientist. Loves solving puzzles, organizing stuff and customer service. During his free (and not-so-free) time he's a cyclist and professional skeptic.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Contact
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If you want to tell me something, the easier is to write me an email: pchtsp at gmail dot com.
