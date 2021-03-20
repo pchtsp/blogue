@@ -9,7 +9,7 @@ title:            Blogue
 tagline:          'Franco Peschiera'
 description:      'Radically unpopular rants from a random guy with no (secret) agenda'
 url:              https://pchtsp.github.io/
-baseurl:          /
+baseurl:          https://pchtsp.github.io/
 
 author:
   name:           'Franco Peschiera'
