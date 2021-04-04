@@ -11,13 +11,13 @@ A list of personal projects in arbitrary order.
 
 This is a blog we did with my two brothers while we crossed France from north (we started at Gantt, Belgium) to south (we ended in Toulouse, France). The trip took two weeks: we camped and brought our own food with us.
 
-We took turns to write each day's story. Many things, happened, as is expected. The link to the blog is [here](loshermanosylasbicicletas.blogspot.com).
+We took turns to write each day's story. Many things, happened, as is expected. The link to the blog is [here](https://loshermanosylasbicicletas.blogspot.com).
 
 ## Perros-del-viernes
 
 This project lasted for 1.x years. Every Friday I published a photo of a dog I found while walking on the street. I took care of asking for name, age, etc.
 
-The full album can be found [here](photos.app.goo.gl/wN43hGcw6ynriV5P2).
+The full album can be found [here](https://photos.app.goo.gl/wN43hGcw6ynriV5P2).
 In order to see the description, one needs to click on the photo and then on the (i) button in the upper right screen.
 
 At some point the project was also shared [in instagram](https://www.instagram.com/perrosdelviernes/).
